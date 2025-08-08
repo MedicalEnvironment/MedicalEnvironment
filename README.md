@@ -37,7 +37,7 @@
 
 ## 🌐 Let’s Connect  
 
-[💼 LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/akbar-abayev/)
+[💼 LinkedIn](https://www.linkedin.com/in/akbar-abayev/)
 [📧 Gmail](mailto:akbar.abayev@gmail.com)
 
 ---
