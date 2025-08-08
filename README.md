@@ -38,7 +38,7 @@
 ## 🌐 Let’s Connect  
 
 [💼 LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/akbar-abayev/)
-[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png](mailto:akbar.abayev@gmail.com)
+[!(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](mailto:akbar.abayev@gmail.com)
 
 ---
 
